@@ -112,3 +112,19 @@ By completing this project, trainees will understand:
 ✔ Pagination, Search, Sorting
 ✔ Clean project structure used in hospital systems
 
+
+<img width="2099" height="1272" alt="image" src="https://github.com/user-attachments/assets/930bd85f-c3f5-42b0-b0ee-8ad5296d34dc" />
+
+<img width="2273" height="1340" alt="image" src="https://github.com/user-attachments/assets/53c516af-318f-4b7d-a96b-edd4e92e94db" />
+
+<img width="2099" height="1272" alt="image" src="https://github.com/user-attachments/assets/dfc8f3f4-daf5-45e5-91ae-a38d1f037408" />
+
+<img width="2106" height="1361" alt="image" src="https://github.com/user-attachments/assets/1380bc3f-32fd-4af8-b8ba-6efdd1ccad5a" />
+
+<img width="2108" height="1396" alt="image" src="https://github.com/user-attachments/assets/08f65693-83f5-4989-8508-e29a90212482" />
+
+
+
+
+
+
